@@ -1,3 +1,16 @@
+# Arknights Game Helper
+
+Playing this game is so time consuming so I created a game helper to conduct fights automatically.
+
+#### What I learned
+Python multi-thread.<br>
+Opencv picture matching.<br>
+Python GUI(Tkinter).
+
+
+
+
+
 明日方舟护肝脚本
 
 
